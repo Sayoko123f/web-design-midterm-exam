@@ -16,7 +16,7 @@
 ## [爬蟲：金門日報](https://github.com/Sayoko123f/yang)
 目的： 協助老師蒐集語料供研究使用。
 
-說明： 爬蟲程式碼在 ***kmdn.php***，其他資料夾包含一些資料處理的程式碼。
+說明： 爬蟲程式碼在 ***kmdn.php***，其他資料夾包含一些資料處理的程式碼，撰寫時間點為 2020年7月。
 
 環境： PHP, include library simple_html_dom
 
@@ -26,7 +26,7 @@
 ## [爬蟲：漫畫網站](https://github.com/Sayoko123f/web-design-midterm-exam/tree/main/comic-crawler)
 目的： 練習 PHP 抽象類別。
 
-說明： 支援三個漫畫網站，可抓取圖片和詮釋資料。
+說明： 支援三個漫畫網站，可抓取圖片和詮釋資料，撰寫時間點為 2020年8月。
 
 環境： PHP, include library simple_html_dom
 
