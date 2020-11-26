@@ -23,7 +23,7 @@
 成果： 抓下約兩萬六千筆文章放入 MYSQL，約三千六百萬中文字數。  
 
 ---
-## 爬蟲：漫畫網站
+## [爬蟲：漫畫網站](https://github.com/Sayoko123f/web-design-midterm-exam/tree/main/comic-crawler)
 目的： 練習 PHP 抽象類別。
 
 說明： 支援三個漫畫網站，可抓取圖片和詮釋資料。
