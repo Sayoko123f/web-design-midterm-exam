@@ -8,9 +8,15 @@
 帳號供測試： ***tt@test.com***, password: ***12345678***
 ### 功能
 - 會員登入：支援網站原生會員，第三方支援 ***Google OAuth***。
-- 權限管理：分三級權限， ***User, Manager, Admin***。
+- 權限功能：可分三級權限管理會員的活動， ***User, Manager, Admin***。
 - 圖表：使用 ***Chart.js*** 函式庫。
 - 內部資料搜尋(建置中)
+
+---
+## [Javascript 筆記](https://github.com/Sayoko123f/web-practice-note/tree/main/js)
+說明： ***useful_func.js*** 紀錄了一些實用函式， 其它資料夾包含：初學 jquey 的內容、Openlayers 的使用方法、Vue.js 的筆記。
+
+補充： 想紀錄一些程式筆記，所以整理出了這個倉庫，日後隨緣分繼續更新。
 
 ---
 ## [爬蟲：金門日報](https://github.com/Sayoko123f/yang)
